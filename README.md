@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JihoonLee&fontSize=50&animation=twinkling)
-
+<p align="center">🇰🇷🇳🇿</p>
 
 <p align="center"> 💬 <a href="">Portfolio</a></p>
 <p align="center"> ⚒ Stack </p>
@@ -38,6 +38,4 @@ Here are some ideas to get you started:
 <a href="iamzhliiv@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iamzhliiv@gmail.com"/></a>
 </p>
 <p align="center">⚡ Fun fact </p>
-<p align="center">
-  I love <img src="https://https://img.shields.io/badge/-WeightTraning-red"/>&nbsp
 </p>
