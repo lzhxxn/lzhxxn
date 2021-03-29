@@ -12,9 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align=center>
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzzsza)](https://hits.seeyoufarm.com) 
-</div>
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JihoonLee&fontSize=50&animation=twinkling)
 <p align="center">LEE JI HOON - Daniel </p>
 
