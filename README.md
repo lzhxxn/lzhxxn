@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 <p align="center">LEE JI HOON - Daniel </p>
 
 <p align="center"> 💬 <a href="https://www.notion.so/LEE-JIHOON-d7910b6233b44d309723727ad15da6d2">Portfolio</a></p><br>
-<p align="center">[![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=AKl53l4gDjs)](https://www.youtube.com/watch?v=AKl53l4gDjs)
 <p align="center"> ⚒ Stack </p>
 <p align="center">
 <p align="center">
@@ -33,7 +32,9 @@ Here are some ideas to get you started:
 </p>
 <p align="center"> 📫  Contact </p>
 <p align="center">
-<a href="https://velog.io/@lzhxxn"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@lzhxxn"/></a>&nbsp
-<a href="iamzhliiv@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iamzhliiv@gmail.com"/></a>
+<a href="https://velog.io/@lzhxxn"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@lzhxxn"/</a>&nbsp
+<a href="iamzhliiv@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=iamzhliiv@gmail.com"/></a>&nbsp
+<a href="https://www.youtube.com/watch?v=AKl53l4gDjs"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=AKl53l4gDjs"/></a>&nbsp
+
 </p>
 
