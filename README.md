@@ -13,9 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JihoonLee&fontSize=50&animation=twinkling)
-<div align=center>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flzhxxn&count_bg=%2332399C&title_bg=%23BEA2A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>            
-</div>
 
 <p align="center"> 💬 <a href="https://www.notion.so/LEE-JIHOON-d7910b6233b44d309723727ad15da6d2">Portfolio</a></p>
 <p align="center"> ⚒ Stack </p>
@@ -39,4 +36,7 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/watch?v=AKl53l4gDjs"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/watch?v=AKl53l4gDjs"/></a>&nbsp
 <a href="https://www.facebook.com/lzhxxn"><img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/lzhxxn"/></a>&nbsp
 </p>
+<div align=center>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flzhxxn&count_bg=%2332399C&title_bg=%23BEA2A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>            
+</div>
 
