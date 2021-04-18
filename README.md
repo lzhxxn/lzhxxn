@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JihoonLee&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=LEE JIHOON&fontSize=50&animation=twinkling)
 
 <p align="center"> 💬 <a href="https://www.notion.so/LEE-JIHOON-d7910b6233b44d309723727ad15da6d2">Portfolio</a></p>
 <p align="center"> ⚒ Stack </p>
