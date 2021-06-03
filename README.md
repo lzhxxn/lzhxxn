@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lzhxxn&show_icons=true"/></a>&nbsp
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lzhxxn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lzhxxn&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 </p>
 <div align=center>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flzhxxn&count_bg=%2332399C&title_bg=%23BEA2A2&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>            
