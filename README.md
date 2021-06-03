@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=LEEJIHOON&fontSize=50&animation=twinkling)
 
-<p align="center"> 💬 <a href="https://www.notion.so/LEE-JIHOON-d7910b6233b44d309723727ad15da6d2">Portfolio</a></p>
+<p align="center"> 💬 <a href="">Portfolio</a></p>
 <p align="center"> ⚒ Stack </p>
 <p align="center">
 <p align="center">
